@@ -1,4 +1,4 @@
-# ENGG1811 – Week 2 Resources
+# Lab Materials – Week 3
 
 Please find the following Python scripts for this week:
 
