@@ -35,7 +35,6 @@ An example of reducing repetition in Python code by refactoring.
 
 ---
 
-> 📌 **Note:** These scripts are designed to help you understand essential Python concepts like functions, loops, and list operations.  
 > ✍️ Please make sure to include docstrings at the top of each file for your assignments.
 
 ---
