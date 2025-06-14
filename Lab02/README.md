@@ -36,3 +36,5 @@ An example of using the `math` library to access mathematical functions and cons
 
 > 📌 **Note:** The scripts provide practical examples to help you develop good coding practices.  
 > ✍️ Please make sure to include docstrings at the top of each file for your assignments.
+
+---
