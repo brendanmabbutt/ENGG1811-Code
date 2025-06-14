@@ -1,4 +1,4 @@
-# Lab Materials – Week 3
+# Lab Materials – Week 2
 
 Please find the following Python scripts for this week:
 
