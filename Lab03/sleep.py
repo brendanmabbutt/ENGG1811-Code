@@ -7,7 +7,7 @@ current_date = 24
 assignment_due_soon = abs(current_date - DUE_DATE) <= soon_threshold
 
 # Assumes the user enters an integer
-hours_slept = int(input("How many hours did you sleep last night? "))
+hours_slept = float(input("How many hours did you sleep last night? "))
 
 if hours_slept >= 10:
     print("Welcome back from hibernation")
