@@ -1,7 +1,7 @@
 number = int(input("Give me an integer: "))
 
 # Where possible, print the favorability of the number
-if type(number) != int:
+if round(number) != number:
     print("The number you provided was not an integer.")
 elif number % 2 == 1:
     # number is odd
