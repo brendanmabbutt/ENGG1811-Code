@@ -1,4 +1,4 @@
-number = int(input("Give me an integer: "))
+number = float(input("Give me an integer: "))
 
 # Where possible, print the favorability of the number
 if round(number) != number:

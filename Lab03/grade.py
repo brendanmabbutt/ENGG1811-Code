@@ -6,5 +6,5 @@ elif grade < 50:
     print("fail")
 elif grade < 85:
     print("distinction")
-elif grade < 100:
+else:
     print("high distinction")
