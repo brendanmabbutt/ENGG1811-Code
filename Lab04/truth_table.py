@@ -2,9 +2,12 @@ print("For De Morgan's Law:\n"
       "not(X and Y) = not(X) or not(Y),\n"
       "we test all possible cases:\n")
 
+# Flag to track if all required conditions are satisfied
 holds = True
-for x in [True, False]:
-    for y in [True, False]:
+booleans = [True, False]
+
+for x in booleans:
+    for y in booleans:
         if (not(x) or not(y)) != (not(x and y)):
             print("De Morgan's Law fails when X is", x, "and Y is", y)
             holds = False

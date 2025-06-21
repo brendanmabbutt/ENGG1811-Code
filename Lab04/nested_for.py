@@ -1,6 +1,6 @@
-LENGTH = 10
-HEIGHT = 8
+length = 10
+height = 8
 
-for horizontal in range(LENGTH):
-    for vertical in range(HEIGHT):
+for horizontal in range(length):
+    for vertical in range(height):
         print(horizontal, vertical)
