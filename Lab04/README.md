@@ -33,6 +33,9 @@ An example of trying to modify the loop variable and list in a `for` loop.
 ### `refactor.py` 🛠️  
 An example of reducing repetition in Python code by refactoring.
 
+### dance_floor.py 💃
+A file that explores the math library’s `ceil()` and `floor()` functions, showing how they relate to rounding and distance from integers.
+
 ---
 
 > ✍️ Please make sure to include docstrings at the top of each file for your assignments.
