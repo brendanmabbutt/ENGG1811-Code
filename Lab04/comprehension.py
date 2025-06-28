@@ -9,6 +9,12 @@ y = range(num_items)
 
 #%%
 # What does this do?
+z = []
+for element in x:
+    power = element ** element
+    z.append(power)
+
+# Does this do the same thing?
 z = [element ** element for element in x]
 
 #%%
