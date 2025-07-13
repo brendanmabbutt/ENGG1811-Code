@@ -8,6 +8,7 @@ matrix = np.array([
     [5, 6, 7, 7, 4, 3]
 ])
 
+vector = np.array([9, 2, 4, 5])
 # =============================================================================
 # Try to interpret the results of each of the following in the console
 # matrix[0,1]
