@@ -1,5 +1,5 @@
 #%%
-def squarepluscube(num): 
+def square_plus_cube(num): 
     square = num ** 2 
     cube = num ** 3 
     answer = square + cube 
@@ -7,19 +7,19 @@ def squarepluscube(num):
 
 #%%
 # What will the following do?
-a = squarepluscube(-1)
-b = squarepluscube(2)
-c = squarepluscube(7)
+a = square_plus_cube(-1)
+b = square_plus_cube(2)
+c = square_plus_cube(7)
 
 #%%
 # What will the following do?
 num = 2
-d = squarepluscube(num)
+d = square_plus_cube(num)
 
 #%%
 # Can I pass in a differently named variable?
 dummy = 4
-e = squarepluscube(dummy)
+e = square_plus_cube(dummy)
 
 #%%
 # What is the error here?
